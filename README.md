@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @NoNickeD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
 
-<!---
-NoNickeD/NoNickeD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔎 Lots of repos around different projects and random information. Take a look around!
+
+Thanks for visiting!
+
+🤙
