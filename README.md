@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikos Nikolakakis</h1>
-<h3 align="center">I am passionate with Middleware (OSB), Kubernetes and Cloud!</h3>
+<h3 align="center">I am passionate with Middleware|Integration, Kubernetes and Cloud!</h3>
 
 - 🔭 I’m currently working on **Vodafone**
 
