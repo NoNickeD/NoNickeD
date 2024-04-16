@@ -5,4 +5,5 @@
 I am passionate with SRE, Kubernetes and Cloud!
 
 - 🔭 I’m currently working on **Vodafone**
-- 📫 How to reach me **nonickedgr@gmail.com**
+- 📫 Contact me **nonickedgr@gmail.com**
+- 📟 Blog **https://srekubecraft.io**
